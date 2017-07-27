@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 27daa71755fc66848b7a8c662c0d78e0
+timeCreated: 1501003673
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: C64 User
+  fontNames:
+  - C64 User
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
